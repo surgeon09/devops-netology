@@ -24,3 +24,5 @@ override.tf.json
 # Ниже игнорировать файлы с расширением .terrarormrc или сам файл terraform.rc
 .terraformrc
 terraform.rc
+
+# Новая строчка для задания №3 - Ветки
