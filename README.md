@@ -1,5 +1,6 @@
 # devops-netologyFirst string to Readme file
 
+
 # Игнорировать все файлы расположенные в локальной директории .terraform
 **/.terraform/*
 
@@ -27,3 +28,4 @@ terraform.rc
 
 # Новая строчка для задания №3 - Ветки
 # Задание №4 – Упрощаем себе жизнь
+# Еще одна запись в README
