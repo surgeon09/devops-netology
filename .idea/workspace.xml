@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8accf2f1-3a1d-4480-883a-5918cd3b4098" name="Changes" comment="Commit to fix problems" />
+    <list default="true" id="b8991c27-d751-48a7-b63a-73d90fb93efe" name="Changes" comment="Commit to fix problems">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8accf2f1-3a1d-4480-883a-5918cd3b4098" name="Changes" comment="" />
+      <changelist id="b8991c27-d751-48a7-b63a-73d90fb93efe" name="Changes" comment="" />
       <created>1646675259348</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
