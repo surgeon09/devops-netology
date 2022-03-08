@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b8991c27-d751-48a7-b63a-73d90fb93efe" name="Changes" comment="Commit to prepare merge" />
+=======
+    <list default="true" id="b8991c27-d751-48a7-b63a-73d90fb93efe" name="Changes" comment="Commit to prepare merge">
+      <change beforePath="$PROJECT_DIR$/branching/rebase.sh" beforeDir="false" afterPath="$PROJECT_DIR$/branching/rebase.sh" afterDir="false" />
+    </list>
+>>>>>>> 40840d1 (git-rebase 1)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
     <setting file="file://$PROJECT_DIR$/will_be_deleted.txt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/branching/merge.sh" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/branching/merge.sh" root0="SKIP_INSPECTION" />
+>>>>>>> 40840d1 (git-rebase 1)
     <setting file="file://$PROJECT_DIR$/branching/rebase.sh" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/has_been_moved.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
